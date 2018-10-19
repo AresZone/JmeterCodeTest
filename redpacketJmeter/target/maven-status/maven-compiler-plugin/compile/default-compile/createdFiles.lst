@@ -1,0 +1,17 @@
+com\soybean\test\util\SSLUtilities$FakeHostnameVerifier.class
+com\soybean\test\util\SSLUtilities.class
+com\soybean\test\http\BaseJmeterHttpImpl$1.class
+com\soybean\test\Entity\PacketShareUrlVO.class
+com\soybean\test\Entity\Packet.class
+com\soybean\test\http\BaseJmeterHttpImpl.class
+com\soybean\test\util\IntegerEncryptTool.class
+com\soybean\test\http\BaseJmeterHttp.class
+com\soybean\test\util\JsonUtil.class
+com\soybean\test\data\Test.class
+com\soybean\test\data\idData.class
+com\soybean\test\data\idEncodeBanch.class
+com\soybean\test\util\RequestCallback.class
+com\soybean\test\util\HttpClientUtils.class
+com\soybean\test\util\HttpResult.class
+com\soybean\test\data\TokenData.class
+com\soybean\test\util\SSLUtilities$FakeX509TrustManager.class
